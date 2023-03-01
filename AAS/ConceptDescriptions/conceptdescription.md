@@ -4,4 +4,10 @@ The PackML Interface State Manager is used for communication with the unit/machi
 The Interface is used to get status of the unit/machine, start the unit/machine, stop the unit/machine, change parameters, etc.
 
 The PackML Interface State Manager can either be implemented in the same control system (CPU) as the Machine State Manager or in a separate control system. 
-A full PackML unit/machine will have one common Interface and one Machine State Manager that is totally integrated with the Machine State Manager
+A full PackML unit/machine will have one common Interface and one Machine State Manager that is totally integrated with the Machine State Manager.
+
+Related information can be found (here)[https://www.omac.org/packaging-workgroup-solutions].
+
+### Admin.Alarms
+
+### Status.Alarms
